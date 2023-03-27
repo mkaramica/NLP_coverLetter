@@ -1,0 +1,50 @@
+John Smith
+123 Main Street
+Anytown, USA 12345
+(123) 555-5555
+johnsmith@email.com
+
+Objective:
+To obtain a position as a front-end developer where I can utilize my skills and experience to create visually appealing and user-friendly websites.
+
+Education:
+Bachelor of Science in Computer Science
+XYZ University, Anytown, USA
+Graduated May 20XX
+
+Skills:
+
+Proficient in HTML, CSS, JavaScript, and jQuery
+Experience with React, Angular, and Vue.js
+Knowledgeable in responsive design and cross-browser compatibility
+Familiarity with Adobe Creative Suite and Sketch
+Strong understanding of software development methodologies, including Agile and Waterfall
+Experience:
+Front-End Developer
+ABC Company, Anytown, USA
+May 20XX - Present
+
+Develop and maintain websites using HTML, CSS, and JavaScript
+Collaborate with cross-functional teams to ensure site functionality and usability
+Implement responsive design and ensure cross-browser compatibility
+Utilize version control tools such as Git to manage code changes
+Participate in Agile development process
+Web Developer Intern
+DEF Company, Anytown, USA
+January 20XX - April 20XX
+
+Assisted senior developers with front-end development tasks
+Gained experience working with HTML, CSS, and JavaScript
+Collaborated with team members to develop websites and web applications
+Gained familiarity with Agile development process
+Projects:
+
+Created a responsive web design using HTML, CSS, and JavaScript
+Developed a website using React and Redux
+Implemented a mobile app using React Native
+Designed a user interface using Adobe XD
+Certifications:
+
+Certified Front-End Web Developer (CFWD), XYZ Certification, 20XX
+References:
+Available upon request.

@@ -1,0 +1,93 @@
+About the Role
+
+We are looking for an experienced and talented developer to join our product team, who engages with our awesome team of developers, designer and product owner and is committed to innovation and continuous value creation. You will have the opportunity to own features & contribute to our user experience with the latest tools and design patterns.
+
+At Verge, we enjoy flexible work arrangements, including a work-from-home environment. While we don't have a physical office space, we hire locally (Calgary area) to ensure our teams can meet in person regularly, allowing our culture of collaboration, creativity, and innovation to thrive.
+
+What You will Do:
+
+Design and write well-structured, documented and easily maintainable code
+Stay at forefront of web application development best practices
+Collaborate with other devs and UI/UX designer
+About you
+
+What you bring
+
+Minimum of two years technical education
+Three or more years of hands-on professional experience and proven track record
+Exceptional UI/UX Skills
+Angular/Angular Material/React/React Native/Vue/Bootstrap
+SCSS/CSS/HTML
+JavaScript/TypeScript
+GitHub/Git/Version Control
+Scrum/agile team experience
+Portfolio links as part of resume
+What makes you stand out:
+
+AgTech Experience
+Geo/GIS/Mapping
+Visual Studio/VS Code
+Familiarity with Figma or other interface design tools
+Responsive web design is in our near-future
+Benefits of being at Verge
+
+Because Verge hires the best people, we work hard to provide benefits and perks to improve their lives. Our people get competitive salaries and vacation, flexible health benefits, generous bonus program, retirement planning options (401K and RRSP matching), personal development and work from home allowances, to name a few of the perks.
+
+When you join Verge, you do more than switch companies to advance your career. Instead, you're joining a team of talented individuals who work with passion and purpose. We're a team with strong company values that define our culture, and they include: delivering on our promises, growth through market-driven innovation, driving for results, communicating with clarity, and a focus on valuing creative teamwork.
+
+If you want to play a role in accelerating the transition to autonomous farming, you belong at Verge.
+
+NOTE: We will only contact qualified candidates of interest.
+
+Verge is an equal opportunity employer. We encourage applications from all individuals regardless of age, gender, race, ethnicity, religion or sexual orientation, and evaluate all candidates based on merit.
+
+Join Verge and change the future of agriculture - https://vergeag.com
+
+Job Types: Full-time, Permanent
+
+Benefits:
+
+Dental care
+Extended health care
+Paid time off
+RRSP match
+Vision care
+Schedule:
+
+Monday to Friday
+Supplemental pay types:
+
+Bonus pay
+Education:
+
+Secondary School (preferred)
+Experience:
+
+Software development: 1 year (preferred)
+UI Design and Development: 1 year (preferred)
+Angular: 1 year (preferred)
+SCSS/CSS/HTML: 1 year (preferred)
+JavaScript/TypeScript: 1 year (preferred)
+Job Types: Full-time, Permanent
+
+Benefits:
+
+Dental care
+Extended health care
+Paid time off
+RRSP match
+Vision care
+Schedule:
+
+Monday to Friday
+Supplemental pay types:
+
+Bonus pay
+Experience:
+
+Software development: 1 year (preferred)
+UI Design and Development: 1 year (preferred)
+Angular: 1 year (preferred)
+SCSS/CSS/HTML: 1 year (preferred)
+JavaScript/TypeScript: 1 year (preferred)
+Work Location: Hybrid remote in Calgary, AB
